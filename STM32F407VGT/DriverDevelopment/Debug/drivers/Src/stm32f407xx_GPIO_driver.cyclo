@@ -1,0 +1,8 @@
+../drivers/Src/stm32f407xx_GPIO_driver.c:11:6:GPIO_PCLKControl	10
+../drivers/Src/stm32f407xx_GPIO_driver.c:41:6:GPIO_Init	4
+../drivers/Src/stm32f407xx_GPIO_driver.c:79:6:GPIO_DeInit	5
+../drivers/Src/stm32f407xx_GPIO_driver.c:98:9:GPIO_ReadFromInputPin	1
+../drivers/Src/stm32f407xx_GPIO_driver.c:106:10:GPIO_ReadFromInputPort	1
+../drivers/Src/stm32f407xx_GPIO_driver.c:113:6:GPIO_WriteToOutputPin	2
+../drivers/Src/stm32f407xx_GPIO_driver.c:125:6:GPIO_WriteToOutputPort	1
+../drivers/Src/stm32f407xx_GPIO_driver.c:131:6:GPIO_Toggle_OutputPin	1
